@@ -3,7 +3,7 @@ This project features a Machine Learning application designed to identify potent
 The application is deployed using Streamlit and uses a Neural Network (MLP) trained on clinical data.
 
 🚀 Live Demo
-[Link to your Streamlit App if deployed]
+https://predict-heart-recall.streamlit.app/
 
 🧠 Model Strategy: Why Recall?
 In medical diagnostics, missing a sick patient (False Negative) is much more dangerous than a false alarm (False Positive). Therefore, this model was tuned to prioritize:
